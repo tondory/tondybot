@@ -1,0 +1,16 @@
+KitsuneToday at 6:50 PM
+@Tondy .list should have parameters!
+Such as a list of 10 of list of cards that match criteria X
+:thinking:
+ 
+TondyToday at 6:51 PM
+probably yes!
+the code is kinda non existent for it atm XD
+ 
+KitsuneToday at 6:51 PM
+// .list cards > 55% win rate decks
+Would be so cool
+
+
+
+matches should only be in #botmatches
